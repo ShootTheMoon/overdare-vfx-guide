@@ -12,7 +12,7 @@ OVERDARE는 Roblox처럼 생겼고 Unreal 위에서 돈다. 그래서 **Roblox �
 
 | | |
 |---|---|
-| **이 리포 (`overdare-vfx-guide`)** | **어떻게 하는가.** 작업 루프 · 도구 사용법 · 굽기 · 크래프트 · 체크리스트. 어느 프로젝트에나 적용된다 |
+| **이 리포 (`overdare-vfx-guide`)** | **어떻게 하는가.** 작업 루프 · 도구 사용법 · 굽기 · 크래프트 · 체크리스트 · **배선**. 어느 프로젝트에나 적용된다 |
 | [`onlyoneshot-vfx`](https://github.com/ShootTheMoon/onlyoneshot-vfx) | **무엇이 있는가.** 검증된 API 표면(선언문 원문) · 환각 차단 목록 · ONLY ONE SHOT의 실제 지형·UI 부착점 · 미해결 질문 · 실측 프로브 |
 
 **API가 뭐가 있는지 궁금하면 저쪽을 봐라.** 여기서 표를 복붙하지 않는다 — 두 군데서 갈라지면 둘 다 못 믿게 된다.
@@ -34,6 +34,7 @@ OVERDARE는 Roblox처럼 생겼고 Unreal 위에서 돈다. 그래서 **Roblox �
 | 4 | [04_BAKING.md](04_BAKING.md) | 블렌더에서 스프라이트·아틀라스를 굽는 법 |
 | 5 | [05_CRAFT.md](05_CRAFT.md) | 좋아 보이게 만드는 원칙 |
 | 6 | [06_CHECKLIST.md](06_CHECKLIST.md) | 이펙트 하나를 처음부터 끝까지 |
+| 7 | [07_WIRING.md](07_WIRING.md) | **만든 이펙트를 알맞은 순간에 터뜨리는 배선** — 피격 FX 한 줄, 시퀀스 컨트롤 트랙, 풀링 |
 
 급하면 **[06_CHECKLIST.md](06_CHECKLIST.md)만 읽고 시작해도 된다.** 막히는 항목에서 해당 문서로 들어가라.
 
